@@ -1,127 +1,115 @@
-<br clear="both">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,34&height=220&section=header&text=Hi%20there,%20I'm%20Shreyansh%20👋&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<div align="start">
-  <img height="150" src="https://giffiles.alphacoders.com/398/3987.gif"  />
-</div>
-
-###
-
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<div align="start">
-  <h3>💫 About Me</h3>
-  <p>
-    I'm a passionate fullstack developer with a love for creating robust and scalable applications. 
-    With several years of experience in web development, I specialize in building modern web applications 
-    using TypeScript, Next.js, and various backend technologies.
+  <p align="center">
+    ⚡ <b>Fullstack Engineer & Tech Explorer</b> ⚡
   </p>
-  <p>
-    🔭 Currently working on improving developer experiences through intuitive tools<br>
-    🌱 Always learning and exploring new technologies<br>
-    👯 Looking to collaborate on open-source projects<br>
-    💬 Ask me about fullstack development, cloud solutions, or tech architecture
+
+  <p align="center">
+    <a href="https://linkedin.com/in/shreyanshawadhiya" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:developershre0901@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://discord.com/users/gamer_shre662">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Development;Building+Scalable+%26+Modern+Apps;Exploring+Cloud+%26+DevOps;Open+Source+Contributor" alt="Typing SVG" />
   </p>
 </div>
 
-###
+---
 
-<h3 align="center">🛠️ Technologies & Tools</h3>
+### 💫 About Me
+
+```yaml
+developer:
+  name: Shreyansh
+  role: Fullstack Developer & System Architect
+  core_stack: [TypeScript, Next.js, Node.js, Go, AWS, Docker]
+  focus: Building intuitive, scalable, high-performance web applications
+  currently_working_on: Improving developer workflows & immersive real-time experiences
+  learning: Advanced Cloud Architecture & Distributed Systems
+```
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,express,graphql,go,docker,aws,gitlab,figma&perline=6" alt="Tech Stack" />
+  </a>
 </div>
 
-###
+---
 
-<h3 align="center">🚀 Current Projects</h3>
+### 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Video Chat App</h3>
-        <div align="center">
-          <p>Real-time video conferencing platform supporting 50+ concurrent users with <200ms latency.</p>
-          <a href="https://github.com/develop-programs/Glimpse.git" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository Badge"/>
-          </a> 
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Innovritti</h3>
-        <div align="center">
-          <p>Designed and maintained event website for 500+ attendees.</p>
-          <a href="https://github.com/develop-programs/innovritti-final.git" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository Badge"/>
+      <td width="50%" valign="top">
+        <h3 align="center">🌐 Video Chat App</h3>
+        <p align="center"><i>Real-time high-concurrency video platform</i></p>
+        <ul>
+          <li>⚡ Sub-200ms latency communication</li>
+          <li>👥 Supports 50+ concurrent users per room</li>
+          <li>🛠️ Built with WebRTC, Node.js & modern frontend architecture</li>
+        </ul>
+        <p align="center">
+          <a href="https://github.com/developershre/Glimpse.git" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
           </a>
-        </div>
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">✨ Innovritti</h3>
+        <p align="center"><i>Large-scale event management platform</i></p>
+        <ul>
+          <li>🎉 High-capacity portal serving 500+ attendees</li>
+          <li>📱 Seamless interactive UI and modern asset flow</li>
+          <li>🚀 Scalable performance optimized for peak traffic</li>
+        </ul>
+        <p align="center">
+          <a href="https://github.com/developershre/innovritti-final.git" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+          </a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-###
+---
 
-<h3 align="center">🔗 Connect With Me</h3>
-
-<div align="center">
-  <a href="www.linkedin.com/in/shreyanshawadhiya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="developershre0901@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <a href="gamer_shre662" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 GitHub Activity & Comprehensive Graphs
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=develop-programs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=develop-programs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=develop-programs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=develop-programs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <!-- 30-Day Contribution Commit Graph -->
+  <p><b>📈 30-Day Commit & Activity Graph</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developershre&radius=16&theme=tokyonight&area=true" width="98%" alt="Commit Activity Graph" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/develop-programs/develop-programs/output/snake.svg" alt="Snake animation" />
-
-###
+<br/>
 
 <div align="center">
-  <h3>✨ Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/develop-programs/count.svg?" />
-  <p>Thanks for stopping by! Feel free to reach out if you want to collaborate on a project.</p>
+  <!-- Contribution Snake Stream -->
+  <p><b>🐍 Contribution Stream</b></p>
+  <img src="https://raw.githubusercontent.com/developershre/developershre/output/snake.svg" alt="Contribution Snake" width="98%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=developershre&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/><br/>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
+
+
+
